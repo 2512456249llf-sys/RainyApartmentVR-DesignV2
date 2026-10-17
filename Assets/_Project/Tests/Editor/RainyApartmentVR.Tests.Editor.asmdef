@@ -1,0 +1,27 @@
+{
+  "name": "RainyApartmentVR.Tests.Editor",
+  "rootNamespace": "RainyApartmentVR.Tests",
+  "references": [
+    "RainyApartmentVR.Runtime",
+    "Unity.XR.Management",
+    "Unity.XR.Management.Editor",
+    "Unity.XR.OpenXR",
+    "Unity.XR.Interaction.Toolkit",
+    "Unity.RenderPipelines.Core.Runtime",
+    "Unity.RenderPipelines.Universal.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

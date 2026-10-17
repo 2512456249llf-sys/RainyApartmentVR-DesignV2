@@ -1,0 +1,7 @@
+素材：窗边实录雨声.ogg
+原名：Rain against the window.ogg
+录音者：cori
+来源：https://commons.wikimedia.org/wiki/File:Rain_against_the_window.ogg
+授权：原作者将此录音释放至公有领域，可用于游戏，包括商业用途。
+原文件校验值（SHA-1）：9d37ead83781913c95c026559a9ea3490c765d72
+录音约 82 秒，游戏内循环播放。若未来换用其他雨声，请重新核实对应授权。

@@ -1,0 +1,21 @@
+{
+  "name": "RainyApartmentVR.Tests.PlayMode",
+  "rootNamespace": "RainyApartmentVR.Tests",
+  "references": [
+    "RainyApartmentVR.Runtime",
+    "Unity.XR.Interaction.Toolkit",
+    "UnityEngine.UI"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

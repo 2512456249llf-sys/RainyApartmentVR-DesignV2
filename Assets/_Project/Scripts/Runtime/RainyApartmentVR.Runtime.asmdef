@@ -1,0 +1,20 @@
+{
+  "name": "RainyApartmentVR.Runtime",
+  "rootNamespace": "RainyApartmentVR",
+  "references": [
+    "Unity.InputSystem",
+    "Unity.XR.Management",
+    "Unity.XR.Interaction.Toolkit",
+    "VRM10",
+    "UnityEngine.UI"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
